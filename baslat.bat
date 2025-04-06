@@ -1,6 +1,6 @@
 @echo off
 color 0
-title Light Deatmatch
+title Kebabsavar31
 :a
 node index.js
 goto a
